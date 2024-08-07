@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/shvmmshr/CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Dynamic Programming
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0001-two-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
 ## Greedy
 |  |
 | ------- |
@@ -48,5 +50,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/shvmmshr/CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
