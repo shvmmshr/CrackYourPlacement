@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0264-ugly-number-ii](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0264-ugly-number-ii) |
+| [0338-counting-bits](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0338-counting-bits) |
 | [0650-2-keys-keyboard](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0650-2-keys-keyboard) |
 ## Hash Table
 |  |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0067-add-binary) |
+| [0338-counting-bits](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0338-counting-bits) |
 ## Simulation
 |  |
 | ------- |
