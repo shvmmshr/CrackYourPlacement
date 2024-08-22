@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0067-add-binary) |
 | [0338-counting-bits](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0338-counting-bits) |
+| [0476-number-complement](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0476-number-complement) |
 ## Simulation
 |  |
 | ------- |
