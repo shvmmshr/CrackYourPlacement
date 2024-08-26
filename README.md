@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0445-add-two-numbers-ii) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0874-backspace-string-compare](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0874-backspace-string-compare) |
 ## String Matching
 |  |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0572-subtree-of-another-tree) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0975-range-sum-of-bst](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0975-range-sum-of-bst) |
 ## Depth-First Search
 |  |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0572-subtree-of-another-tree) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0975-range-sum-of-bst](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0975-range-sum-of-bst) |
 ## Binary Tree
 |  |
