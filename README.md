@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0890-lemonade-change) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/shvmmshr/CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/shvmmshr/CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/shvmmshr/CrackYourPlacement/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0067-add-binary) |
 | [0592-fraction-addition-and-subtraction](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0592-fraction-addition-and-subtraction) |
 | [0874-backspace-string-compare](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0874-backspace-string-compare) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/shvmmshr/CrackYourPlacement/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Memoization
 |  |
 | ------- |
@@ -283,4 +285,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0975-range-sum-of-bst) |
+## Matrix
+|  |
+| ------- |
+| [2132-convert-1d-array-into-2d-array](https://github.com/shvmmshr/CrackYourPlacement/tree/master/2132-convert-1d-array-into-2d-array) |
 <!---LeetCode Topics End-->
