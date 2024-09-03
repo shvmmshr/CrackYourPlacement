@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0066-plus-one) |
