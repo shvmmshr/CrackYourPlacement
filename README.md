@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0191-number-of-1-bits) |
 ## Counting
 |  |
 | ------- |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0067-add-binary) |
+| [0191-number-of-1-bits](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0476-number-complement) |
 ## Simulation
