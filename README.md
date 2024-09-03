@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0219-contains-duplicate-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0219-contains-duplicate-ii) |
 | [0264-ugly-number-ii](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0219-contains-duplicate-ii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/shvmmshr/CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
