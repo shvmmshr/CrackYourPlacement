@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0242-valid-anagram) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0680-valid-palindrome-ii](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0171-excel-sheet-column-number) |
+| [0202-happy-number](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0202-happy-number) |
 | [0264-ugly-number-ii](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0264-ugly-number-ii) |
 | [0445-add-two-numbers-ii](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0445-add-two-numbers-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
