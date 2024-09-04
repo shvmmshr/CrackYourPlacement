@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0171-excel-sheet-column-number) |
+| [0242-valid-anagram](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0257-binary-tree-paths) |
 | [0592-fraction-addition-and-subtraction](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0592-fraction-addition-and-subtraction) |
 | [0680-valid-palindrome-ii](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
