@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/shvmmshr/CrackYourPlacement/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/shvmmshr/CrackYourPlacement/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/shvmmshr/CrackYourPlacement/tree/master/2155-find-missing-observations) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/shvmmshr/CrackYourPlacement/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
 | [0906-walking-robot-simulation](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0906-walking-robot-simulation) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/shvmmshr/CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/shvmmshr/CrackYourPlacement/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Greedy
 |  |
 | ------- |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0445-add-two-numbers-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shvmmshr/CrackYourPlacement/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/shvmmshr/CrackYourPlacement/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
 | ------- |
