@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
 | [0906-walking-robot-simulation](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0906-walking-robot-simulation) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/shvmmshr/CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/shvmmshr/CrackYourPlacement/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/shvmmshr/CrackYourPlacement/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/shvmmshr/CrackYourPlacement/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Greedy
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/shvmmshr/CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1435-xor-queries-of-a-subarray](https://github.com/shvmmshr/CrackYourPlacement/tree/master/1435-xor-queries-of-a-subarray) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/shvmmshr/CrackYourPlacement/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/shvmmshr/CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/shvmmshr/CrackYourPlacement/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## String
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0592-fraction-addition-and-subtraction) |
 | [0680-valid-palindrome-ii](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 | [0874-backspace-string-compare](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0874-backspace-string-compare) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/shvmmshr/CrackYourPlacement/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/shvmmshr/CrackYourPlacement/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/shvmmshr/CrackYourPlacement/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Stack
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/shvmmshr/CrackYourPlacement/tree/master/1435-xor-queries-of-a-subarray) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/shvmmshr/CrackYourPlacement/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/shvmmshr/CrackYourPlacement/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/shvmmshr/CrackYourPlacement/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/shvmmshr/CrackYourPlacement/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
