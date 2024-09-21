@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0014-longest-common-prefix) |
+| [0386-lexicographical-numbers](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0386-lexicographical-numbers) |
 ## Math
 |  |
 | ------- |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0257-binary-tree-paths) |
+| [0386-lexicographical-numbers](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0386-lexicographical-numbers) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0572-subtree-of-another-tree) |
