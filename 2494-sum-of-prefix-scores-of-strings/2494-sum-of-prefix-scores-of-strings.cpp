@@ -6,16 +6,18 @@ public:
     };
     vector<int> sumPrefixScores(vector<string>& words) {
         TrieNode* root = new TrieNode();
+        
         for (const string& word : words) {
             TrieNode* node = root;
             for (char c : word) {
-                if (!node->children.count(c)) {
+                if (node->children.find(c) == node->children.end()) {
                     node->children[c] = new TrieNode();
                 }
                 node = node->children[c];
                 node->count++;
             }
         }
+        
         vector<int> res;
         for (const string& word : words) {
             TrieNode* node = root;
