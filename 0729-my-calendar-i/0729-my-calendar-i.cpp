@@ -19,7 +19,7 @@ public:
     }
 
 private:
-    std::map<int, int> calender; // Declaring the map here
+    std::map<int, int> calender;
 };
 
 /**
