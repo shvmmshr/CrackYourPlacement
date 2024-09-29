@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0432-all-oone-data-structure](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0432-all-oone-data-structure) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
 | [0906-walking-robot-simulation](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0906-walking-robot-simulation) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
+| [0432-all-oone-data-structure](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0432-all-oone-data-structure) |
 | [0445-add-two-numbers-ii](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0445-add-two-numbers-ii) |
 | [0725-split-linked-list-in-parts](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0725-split-linked-list-in-parts) |
 | [0859-design-circular-deque](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0859-design-circular-deque) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0232-implement-queue-using-stacks) |
+| [0432-all-oone-data-structure](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0859-design-circular-deque) |
@@ -436,4 +439,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0729-my-calendar-i](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0731-my-calendar-ii) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0432-all-oone-data-structure) |
 <!---LeetCode Topics End-->
