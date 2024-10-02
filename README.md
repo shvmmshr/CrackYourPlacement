@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0906-walking-robot-simulation) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/shvmmshr/CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1256-rank-transform-of-an-array](https://github.com/shvmmshr/CrackYourPlacement/tree/master/1256-rank-transform-of-an-array) |
 | [1435-xor-queries-of-a-subarray](https://github.com/shvmmshr/CrackYourPlacement/tree/master/1435-xor-queries-of-a-subarray) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/shvmmshr/CrackYourPlacement/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/shvmmshr/CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0906-walking-robot-simulation](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/shvmmshr/CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1256-rank-transform-of-an-array](https://github.com/shvmmshr/CrackYourPlacement/tree/master/1256-rank-transform-of-an-array) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/shvmmshr/CrackYourPlacement/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/shvmmshr/CrackYourPlacement/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/shvmmshr/CrackYourPlacement/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0539-minimum-time-difference](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
+| [1256-rank-transform-of-an-array](https://github.com/shvmmshr/CrackYourPlacement/tree/master/1256-rank-transform-of-an-array) |
 ## Sliding Window
 |  |
 | ------- |
