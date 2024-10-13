@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
 | [0624-maximum-distance-in-arrays](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0624-maximum-distance-in-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0729-my-calendar-i](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0859-design-circular-deque) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0567-permutation-in-string) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0906-walking-robot-simulation](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/shvmmshr/CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0179-largest-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0624-maximum-distance-in-arrays) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0680-valid-palindrome-ii](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 | [0890-lemonade-change](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0539-minimum-time-difference](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1256-rank-transform-of-an-array](https://github.com/shvmmshr/CrackYourPlacement/tree/master/1256-rank-transform-of-an-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/shvmmshr/CrackYourPlacement/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/shvmmshr/CrackYourPlacement/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -176,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0567-permutation-in-string) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/shvmmshr/CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
@@ -436,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0264-ugly-number-ii) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/shvmmshr/CrackYourPlacement/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/shvmmshr/CrackYourPlacement/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Breadth-First Search
