@@ -6,11 +6,9 @@ public:
         for (int i = 0; i < n; i++) {
             str += word1[i];
             str += word2[i];
-            if (i == n-1 && i < word2.size())
-                str+=word2.substr(i+1,word2.size()-i-1);
-            if (i == n-1 && i < word1.size())
-                str+=word1.substr(i+1,word1.size()-i-1);
         }
+        if(word1.size()>n) str+=word1.substr(n);
+        if(word2.size()>n) str+=word2.substr(n);
         return str;
     }
 };
