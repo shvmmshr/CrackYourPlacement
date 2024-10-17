@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0179-largest-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0670-maximum-swap](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0670-maximum-swap) |
 | [0680-valid-palindrome-ii](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 | [0890-lemonade-change](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0592-fraction-addition-and-subtraction) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
 | [0650-2-keys-keyboard](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0650-2-keys-keyboard) |
+| [0670-maximum-swap](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0670-maximum-swap) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shvmmshr/CrackYourPlacement/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2155-find-missing-observations](https://github.com/shvmmshr/CrackYourPlacement/tree/master/2155-find-missing-observations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/shvmmshr/CrackYourPlacement/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
