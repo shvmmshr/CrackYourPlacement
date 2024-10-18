@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0219-contains-duplicate-ii) |
+| [0283-move-zeroes](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0567-permutation-in-string) |
