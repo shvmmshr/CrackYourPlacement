@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/shvmmshr/CrackYourPlacement/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/shvmmshr/CrackYourPlacement/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/shvmmshr/CrackYourPlacement/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/shvmmshr/CrackYourPlacement/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2755-extra-characters-in-a-string](https://github.com/shvmmshr/CrackYourPlacement/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/shvmmshr/CrackYourPlacement/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/shvmmshr/CrackYourPlacement/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -437,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-range-sum-of-bst](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0975-range-sum-of-bst) |
 | [1484-linked-list-in-binary-tree](https://github.com/shvmmshr/CrackYourPlacement/tree/master/1484-linked-list-in-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/shvmmshr/CrackYourPlacement/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/shvmmshr/CrackYourPlacement/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0776-n-ary-tree-postorder-traversal](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0975-range-sum-of-bst](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0975-range-sum-of-bst) |
 | [1484-linked-list-in-binary-tree](https://github.com/shvmmshr/CrackYourPlacement/tree/master/1484-linked-list-in-binary-tree) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/shvmmshr/CrackYourPlacement/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -473,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-range-sum-of-bst](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0975-range-sum-of-bst) |
 | [1484-linked-list-in-binary-tree](https://github.com/shvmmshr/CrackYourPlacement/tree/master/1484-linked-list-in-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/shvmmshr/CrackYourPlacement/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/shvmmshr/CrackYourPlacement/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -494,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0617-merge-two-binary-trees) |
 | [1484-linked-list-in-binary-tree](https://github.com/shvmmshr/CrackYourPlacement/tree/master/1484-linked-list-in-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/shvmmshr/CrackYourPlacement/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/shvmmshr/CrackYourPlacement/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Hash Function
 |  |
 | ------- |
