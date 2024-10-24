@@ -436,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0617-merge-two-binary-trees) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0975-range-sum-of-bst](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0975-range-sum-of-bst) |
+| [0988-flip-equivalent-binary-trees](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0988-flip-equivalent-binary-trees) |
 | [1484-linked-list-in-binary-tree](https://github.com/shvmmshr/CrackYourPlacement/tree/master/1484-linked-list-in-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/shvmmshr/CrackYourPlacement/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/shvmmshr/CrackYourPlacement/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -456,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0617-merge-two-binary-trees) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0975-range-sum-of-bst](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0975-range-sum-of-bst) |
+| [0988-flip-equivalent-binary-trees](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0988-flip-equivalent-binary-trees) |
 | [1484-linked-list-in-binary-tree](https://github.com/shvmmshr/CrackYourPlacement/tree/master/1484-linked-list-in-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/shvmmshr/CrackYourPlacement/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Tree
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0617-merge-two-binary-trees) |
 | [0975-range-sum-of-bst](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0975-range-sum-of-bst) |
+| [0988-flip-equivalent-binary-trees](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0988-flip-equivalent-binary-trees) |
 | [1484-linked-list-in-binary-tree](https://github.com/shvmmshr/CrackYourPlacement/tree/master/1484-linked-list-in-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/shvmmshr/CrackYourPlacement/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/shvmmshr/CrackYourPlacement/tree/master/2677-cousins-in-binary-tree-ii) |
