@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-find-common-characters](https://github.com/shvmmshr/CrackYourPlacement/tree/master/1044-find-common-characters) |
 | [1256-rank-transform-of-an-array](https://github.com/shvmmshr/CrackYourPlacement/tree/master/1256-rank-transform-of-an-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/shvmmshr/CrackYourPlacement/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/shvmmshr/CrackYourPlacement/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1435-xor-queries-of-a-subarray](https://github.com/shvmmshr/CrackYourPlacement/tree/master/1435-xor-queries-of-a-subarray) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/shvmmshr/CrackYourPlacement/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/shvmmshr/CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0392-is-subsequence) |
 | [0650-2-keys-keyboard](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0650-2-keys-keyboard) |
 | [1013-fibonacci-number](https://github.com/shvmmshr/CrackYourPlacement/tree/master/1013-fibonacci-number) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/shvmmshr/CrackYourPlacement/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2755-extra-characters-in-a-string](https://github.com/shvmmshr/CrackYourPlacement/tree/master/2755-extra-characters-in-a-string) |
 ## Hash Table
 |  |
@@ -529,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0054-spiral-matrix) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/shvmmshr/CrackYourPlacement/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/shvmmshr/CrackYourPlacement/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/shvmmshr/CrackYourPlacement/tree/master/2411-spiral-matrix-iv) |
 ## Number Theory
