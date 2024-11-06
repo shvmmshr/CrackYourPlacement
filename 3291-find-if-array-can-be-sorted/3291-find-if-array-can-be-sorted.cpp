@@ -1,9 +1,6 @@
-#include <vector>
-#include <bitset>
-
 class Solution {
 public:
-    bool canSortArray(std::vector<int>& nums) {
+    bool canSortArray(vector<int>& nums) {
         int n = nums.size();
         vector<int> values = nums;
         for (int i = 0; i < n; ++i) {
