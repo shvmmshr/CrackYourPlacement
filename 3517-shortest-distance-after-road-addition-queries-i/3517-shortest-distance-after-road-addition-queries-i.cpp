@@ -20,7 +20,7 @@ public:
     }
     vector<int> shortestDistanceAfterQueries(int n, vector<vector<int>>& queries) {
         vector<vector<pair<int, int>>> graph(n);
-        for (int i = 0; i < n - 1; ++i) {
+        for (int i = 0; i < n - 1; i++) {
             graph[i].push_back({i + 1, 1});
         } 
         vector<int> result;
