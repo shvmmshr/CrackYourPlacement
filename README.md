@@ -561,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-flip-equivalent-binary-trees](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0988-flip-equivalent-binary-trees) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/shvmmshr/CrackYourPlacement/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1484-linked-list-in-binary-tree](https://github.com/shvmmshr/CrackYourPlacement/tree/master/1484-linked-list-in-binary-tree) |
+| [2201-valid-arrangement-of-pairs](https://github.com/shvmmshr/CrackYourPlacement/tree/master/2201-valid-arrangement-of-pairs) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/shvmmshr/CrackYourPlacement/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/shvmmshr/CrackYourPlacement/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Tree
@@ -688,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [2201-valid-arrangement-of-pairs](https://github.com/shvmmshr/CrackYourPlacement/tree/master/2201-valid-arrangement-of-pairs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/shvmmshr/CrackYourPlacement/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/shvmmshr/CrackYourPlacement/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3189-find-champion-ii](https://github.com/shvmmshr/CrackYourPlacement/tree/master/3189-find-champion-ii) |
@@ -697,4 +699,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/shvmmshr/CrackYourPlacement/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/shvmmshr/CrackYourPlacement/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [2201-valid-arrangement-of-pairs](https://github.com/shvmmshr/CrackYourPlacement/tree/master/2201-valid-arrangement-of-pairs) |
 <!---LeetCode Topics End-->
