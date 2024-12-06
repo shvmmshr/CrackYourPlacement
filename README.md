@@ -415,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0241-different-ways-to-add-parentheses) |
+| [0263-ugly-number](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0264-ugly-number-ii) |
 | [0445-add-two-numbers-ii](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0445-add-two-numbers-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
