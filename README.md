@@ -413,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0264-ugly-number-ii) |
 | [0445-add-two-numbers-ii](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0445-add-two-numbers-ii) |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/shvmmshr/CrackYourPlacement/tree/master/1435-xor-queries-of-a-subarray) |
@@ -522,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0241-different-ways-to-add-parentheses) |
 | [1013-fibonacci-number](https://github.com/shvmmshr/CrackYourPlacement/tree/master/1013-fibonacci-number) |
