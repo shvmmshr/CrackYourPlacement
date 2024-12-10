@@ -12,8 +12,8 @@ public:
                 temp = s[i];
             }
             for (int j = 0; j < temp.size(); j++) {
-                string local = temp.substr(0, j + 1);
-                mp[local]++;
+                string str = temp.substr(0, j + 1);
+                mp[str]++;
             }
         }
         int ans = 0;
