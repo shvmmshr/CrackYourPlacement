@@ -349,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0394-decode-string) |
 | [0539-minimum-time-difference](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0592-fraction-addition-and-subtraction) |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0145-binary-tree-postorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0445-add-two-numbers-ii) |
 | [0735-asteroid-collision](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0735-asteroid-collision) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -560,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0241-different-ways-to-add-parentheses) |
+| [0394-decode-string](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/shvmmshr/CrackYourPlacement/tree/master/1013-fibonacci-number) |
 | [1197-parsing-a-boolean-expression](https://github.com/shvmmshr/CrackYourPlacement/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/shvmmshr/CrackYourPlacement/tree/master/1667-find-kth-bit-in-nth-binary-string) |
