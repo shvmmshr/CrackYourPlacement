@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-prime-subtraction-operation](https://github.com/shvmmshr/CrackYourPlacement/tree/master/2716-prime-subtraction-operation) |
 | [2755-extra-characters-in-a-string](https://github.com/shvmmshr/CrackYourPlacement/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/shvmmshr/CrackYourPlacement/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [2868-continuous-subarrays](https://github.com/shvmmshr/CrackYourPlacement/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/shvmmshr/CrackYourPlacement/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/shvmmshr/CrackYourPlacement/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/shvmmshr/CrackYourPlacement/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/shvmmshr/CrackYourPlacement/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shvmmshr/CrackYourPlacement/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/shvmmshr/CrackYourPlacement/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2868-continuous-subarrays](https://github.com/shvmmshr/CrackYourPlacement/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/shvmmshr/CrackYourPlacement/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/shvmmshr/CrackYourPlacement/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/shvmmshr/CrackYourPlacement/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -585,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0649-dota2-senate) |
 | [0859-design-circular-deque](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0859-design-circular-deque) |
 | [0969-number-of-recent-calls](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0969-number-of-recent-calls) |
+| [2868-continuous-subarrays](https://github.com/shvmmshr/CrackYourPlacement/tree/master/2868-continuous-subarrays) |
 ## Tree
 |  |
 | ------- |
@@ -665,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2692-take-gifts-from-the-richest-pile](https://github.com/shvmmshr/CrackYourPlacement/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/shvmmshr/CrackYourPlacement/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/shvmmshr/CrackYourPlacement/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2868-continuous-subarrays](https://github.com/shvmmshr/CrackYourPlacement/tree/master/2868-continuous-subarrays) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -732,6 +736,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0729-my-calendar-i](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0731-my-calendar-ii) |
+| [2868-continuous-subarrays](https://github.com/shvmmshr/CrackYourPlacement/tree/master/2868-continuous-subarrays) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -776,4 +781,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0969-number-of-recent-calls) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/shvmmshr/CrackYourPlacement/tree/master/2868-continuous-subarrays) |
 <!---LeetCode Topics End-->
