@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0136-single-number](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0169-majority-element) |
@@ -492,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0338-counting-bits) |
