@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0374-guess-number-higher-or-lower](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0374-guess-number-higher-or-lower) |
 | [0729-my-calendar-i](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0731-my-calendar-ii) |
 | [1046-max-consecutive-ones-iii](https://github.com/shvmmshr/CrackYourPlacement/tree/master/1046-max-consecutive-ones-iii) |
@@ -795,4 +796,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0215-kth-largest-element-in-an-array) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
