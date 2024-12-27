@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/shvmmshr/CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/shvmmshr/CrackYourPlacement/tree/master/1044-find-common-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/shvmmshr/CrackYourPlacement/tree/master/1046-max-consecutive-ones-iii) |
+| [1063-best-sightseeing-pair](https://github.com/shvmmshr/CrackYourPlacement/tree/master/1063-best-sightseeing-pair) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/shvmmshr/CrackYourPlacement/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/shvmmshr/CrackYourPlacement/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/shvmmshr/CrackYourPlacement/tree/master/1319-unique-number-of-occurrences) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0494-target-sum) |
 | [0650-2-keys-keyboard](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0650-2-keys-keyboard) |
 | [1013-fibonacci-number](https://github.com/shvmmshr/CrackYourPlacement/tree/master/1013-fibonacci-number) |
+| [1063-best-sightseeing-pair](https://github.com/shvmmshr/CrackYourPlacement/tree/master/1063-best-sightseeing-pair) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/shvmmshr/CrackYourPlacement/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shvmmshr/CrackYourPlacement/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/shvmmshr/CrackYourPlacement/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
