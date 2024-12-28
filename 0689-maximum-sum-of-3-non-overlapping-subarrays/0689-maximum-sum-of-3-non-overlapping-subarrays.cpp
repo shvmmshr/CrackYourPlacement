@@ -10,7 +10,7 @@ public:
 
         vector<int> left(sum.size(), 0);
         int best = 0;
-        for(int i = 0; i < sum.size(); ++i){
+        for(int i = 0; i < sum.size(); i++){
             if(sum[i] > sum[best]){
                 best = i;
             }
@@ -19,7 +19,7 @@ public:
 
         vector<int> right(sum.size(), sum.size() - 1);
         best = sum.size() - 1;
-        for(int i = sum.size() - 1; i >= 0; --i){
+        for(int i = sum.size() - 1; i >= 0; i--){
             if(sum[i] >= sum[best]){
                 best = i;
             }
@@ -28,7 +28,7 @@ public:
 
         vector<int> result(3, 0);
         int max_sum = 0;
-        for(int i = k; i < sum.size() - k; ++i){
+        for(int i = k; i < sum.size() - k; i++){
             int total = sum[left[i - k]] + sum[i] + sum[right[i + k]];
             if(total > max_sum){
                 max_sum = total;
