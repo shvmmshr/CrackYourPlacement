@@ -6,7 +6,7 @@ public:
         for (int num : nums) {
             totalSum += num;
         } 
-        for (int i = 0; i < nums.size() - 1; ++i) {
+        for (int i = 0; i < nums.size() - 1; i++) {
             leftSum += nums[i];
             if (leftSum >= totalSum - leftSum) {
                 res++;
