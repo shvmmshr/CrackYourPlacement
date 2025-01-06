@@ -398,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 | [0812-rotate-string](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0812-rotate-string) |
+| [0857-positions-of-large-groups](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0857-positions-of-large-groups) |
 | [0874-backspace-string-compare](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0874-backspace-string-compare) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0957-minimum-add-to-make-parentheses-valid) |
