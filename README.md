@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0035-search-insert-position) |
+| [0045-jump-game-ii](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0066-plus-one) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0118-pascals-triangle) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0334-increasing-triplet-subsequence) |
