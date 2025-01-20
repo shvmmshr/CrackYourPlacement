@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/shvmmshr/CrackYourPlacement/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/shvmmshr/CrackYourPlacement/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/shvmmshr/CrackYourPlacement/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3731-sum-of-variable-length-subarrays](https://github.com/shvmmshr/CrackYourPlacement/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/shvmmshr/CrackYourPlacement/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/shvmmshr/CrackYourPlacement/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/shvmmshr/CrackYourPlacement/tree/master/3427-special-array-ii) |
+| [3731-sum-of-variable-length-subarrays](https://github.com/shvmmshr/CrackYourPlacement/tree/master/3731-sum-of-variable-length-subarrays) |
 ## String
 |  |
 | ------- |
