@@ -6,7 +6,6 @@ class DisjointSet{
             parent.resize(n+1);
             for(int i=0; i<=n; i++) parent[i] = i;
         }
-
         int findUltimateParent(int node){
             if(node == parent[node]) return node;
             return parent[node] = findUltimateParent(parent[node]);
@@ -26,7 +25,6 @@ class DisjointSet{
             }
         }
 };
-
 class Solution {
 public:
     vector<int> findRedundantConnection(vector<vector<int>>& edges) {
