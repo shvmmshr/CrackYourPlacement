@@ -557,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0241-different-ways-to-add-parentheses) |
+| [0258-add-digits](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0264-ugly-number-ii) |
 | [0445-add-two-numbers-ii](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0445-add-two-numbers-ii) |
@@ -635,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0258-add-digits) |
 | [0592-fraction-addition-and-subtraction](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0592-fraction-addition-and-subtraction) |
 | [0735-asteroid-collision](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0874-backspace-string-compare) |
@@ -922,6 +924,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/shvmmshr/CrackYourPlacement/tree/master/0258-add-digits) |
 | [2716-prime-subtraction-operation](https://github.com/shvmmshr/CrackYourPlacement/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/shvmmshr/CrackYourPlacement/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Brainteaser
