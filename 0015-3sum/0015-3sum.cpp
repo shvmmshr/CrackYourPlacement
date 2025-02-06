@@ -1,30 +1,31 @@
 class Solution {
 public:
     vector<vector<int>> threeSum(vector<int>& nums) {
-        sort(nums.begin(),nums.end());
-        vector<vector<int>> arr;
-        for(int i=0;i<nums.size();i++){
-            int j=i+1;
-            int k=nums.size()-1;
-            if(i>0 && nums[i]==nums[i-1]) continue;
-            while(j<k){
-                if(k<nums.size()-1 && nums[k]==nums[k+1]){
-                    k--;
-                    continue;
-                }
-                if(nums[i]+nums[j]+nums[k]==0){
-                    arr.push_back({nums[i],nums[j],nums[k]});
-                    j++;
-                    k--;
-                }
-                else if(nums[i]+nums[j]+nums[k]<0){
-                    j++;
-                }
-                else{
-                    k--;
+        vector<vector<int>> ans;
+        sort(nums.begin(), nums.end());
+        for (int i = 0; i < nums.size(); i++) {
+            if (i > 0 && nums[i] == nums[i - 1]) 
+                continue;
+
+            int j = i + 1;
+            int k = nums.size() - 1;
+            while (j < k) {
+                int sum = nums[i] + nums[j] + nums[k];
+                if (sum == 0) {
+                    ans.push_back({nums[i], nums[j], nums[k]});
+                    while (j < k && nums[j] == nums[j + 1]) j++;  
+                    while (j < k && nums[k] == nums[k - 1]) k--;  
+                    
+                    j++;  // Move left pointer to the right
+                    k--;  // Move right pointer to the left
+                } else if (sum > 0) {
+                    k--;  // Sum too large, decrease `k`
+                } else {
+                    j++;  // Sum too small, increase `j`
                 }
             }
         }
-        return arr;
+
+        return ans;  // Return all unique triplets
     }
 };
