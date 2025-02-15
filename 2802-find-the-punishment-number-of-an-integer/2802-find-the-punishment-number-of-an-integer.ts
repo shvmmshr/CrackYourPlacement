@@ -6,18 +6,18 @@ function punishmentNumber(n: number): number {
     }
     return sum;
 };
-function helper(num: number, delta: number): boolean {
-    if (delta < 0) {
+function helper(num: number, i: number): boolean {
+    if (i < 0) {
         return false;
     }
     if (num == 0) {
-        return delta == 0;
+        return i == 0;
     }
     for (let place = 1; num > 0; place *= 10) {
         const mod = num % 10;
         num = (num - mod) / 10;
-        delta -= mod * place;
-        if (helper(num, delta)) {
+        i -= mod * place;
+        if (helper(num, i)) {
             return true;
         }
     }
