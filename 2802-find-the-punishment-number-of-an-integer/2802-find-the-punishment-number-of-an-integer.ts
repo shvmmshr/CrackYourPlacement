@@ -6,7 +6,6 @@ function punishmentNumber(n: number): number {
     }
     return sum;
 };
-
 function helper(num: number, delta: number): boolean {
     if (delta < 0) {
         return false;
